@@ -12,7 +12,6 @@
     <texture n="3">
      <image>./alhajj_module2.png</image>
     </texture>
-    <ambient-correction type="float">0.37</ambient-correction>
     <reflection-correction type="float">-1.0</reflection-correction>
     <lightmap-factor type="float" n="0">
     <use>/sim/time/sun-angle-rad</use>
