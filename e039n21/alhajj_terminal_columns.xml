@@ -9,7 +9,6 @@
    <object-name>columns</object-name>
    <parameters>
     <reflection-correction type="float">-1.0</reflection-correction>
-    <ambient-correction type="float">0.37</ambient-correction>
    </parameters>
   </effect>
 
