@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+<path>OEJN_tower_old.ac</path>
+  <effect>
+   <inherits-from>Effects/model-combined-deferred</inherits-from>
+   <object-name>twr_bldg</object-name>
+   <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+     <image>./OEJN_tower_old2.png</image>
+	 <filter>linear-mipmap-linear</filter>
+	 <wrap-s>repeat</wrap-s>
+	 <wrap-t>repeat</wrap-t>
+    </texture>
+    <lightmap-factor type="float" n="0">0.50</lightmap-factor> <!-- previously 0.75 -->
+   </parameters>
+  </effect>
+
+   <model>
+     <path>Models/Effects/RedLight10000.xml</path>
+     <offsets>
+       <x-m>-41.05002</x-m>
+       <y-m>63.50871</y-m>
+       <z-m>63.14096</z-m>
+     </offsets>
+   </model>
+
+   <model>
+     <path>Models/Effects/RedLight10000.xml</path>
+     <offsets>
+       <x-m>-47.56992</x-m>
+       <y-m>59.68943</y-m>
+       <z-m>63.14096</z-m>
+     </offsets>
+   </model>
+
+   <model>
+     <path>Models/Effects/RedLight10000.xml</path>
+     <offsets>
+       <x-m>-45.56637</x-m>
+       <y-m>52.54507</y-m>
+       <z-m>63.14096</z-m>
+     </offsets>
+   </model>
+
+   <model>
+     <path>Models/Effects/RedLight10000.xml</path>
+     <offsets>
+       <x-m>-36.53366</x-m>
+       <y-m>52.54507</y-m>
+       <z-m>63.14096</z-m>
+     </offsets>
+   </model>
+
+   <model>
+     <path>Models/Effects/RedLight10000.xml</path>
+     <offsets>
+       <x-m>-34.53011</x-m>
+       <y-m>59.68943</y-m>
+       <z-m>63.14096</z-m>
+     </offsets>
+   </model>
+
+   <model>
+     <path>Models/Airport/beacon_roof.xml</path>
+     <offsets>
+       <x-m>-41.05001</x-m>
+       <y-m>57.272</y-m>
+       <z-m>63.14096</z-m>
+     </offsets>
+   </model>
+ 
+</PropertyList>

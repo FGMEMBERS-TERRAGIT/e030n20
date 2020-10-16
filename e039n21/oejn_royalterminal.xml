@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+<path>oejn_royalterminal.ac</path>
+  <effect>
+   <inherits-from>Effects/model-combined-deferred</inherits-from>
+   <object-name>main_building</object-name>
+   <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+     <image>./oejn_royalterminal2.png</image>
+	 <filter>linear-mipmap-linear</filter>
+	 <wrap-s>repeat</wrap-s>
+	 <wrap-t>repeat</wrap-t>
+    </texture>
+    <lightmap-factor type="float" n="0">1</lightmap-factor> <!-- previously 0.75 -->
+   </parameters>
+  </effect>
+
+</PropertyList>
