@@ -24,6 +24,18 @@ OBJECT_SHARED Models/Airport/localizer.xml 39.152872 21.691672 9.53 69.86
 OBJECT_SHARED Models/Airport/localizer.xml 39.165911 21.658619 12.39 249.87
 OBJECT_SHARED Models/Airport/localizer.xml 39.166797 21.701236 10.91 69.87
 OBJECT_SHARED Models/Airport/localizer.xml 39.181842 21.6631 17.09 249.87
+OBJECT_SHARED Models/Airport/OEJN_apron_staff_moduleA.xml 39.1414336 21.6774517 6.73 20
+OBJECT_SHARED Models/Airport/OEJN_apron_staff_moduleA.xml 39.1420579 21.6758978 6.78 20
+OBJECT_SHARED Models/Airport/OEJN_apron_staff_moduleA.xml 39.1426705 21.674332 6.84 20
+OBJECT_SHARED Models/Airport/OEJN_apron_staff_moduleA.xml 39.1446512 21.6785564 6.98 20
+OBJECT_SHARED Models/Airport/OEJN_apron_staff_moduleA.xml 39.1452553 21.6769898 7.05 20
+OBJECT_SHARED Models/Airport/OEJN_apron_staff_moduleA.xml 39.1458841 21.6754336 7.14 20
+OBJECT_SHARED Models/Airport/OEJN_apron_staff_moduleA.xml 39.1490096 21.6801153 7.33 20
+OBJECT_SHARED Models/Airport/OEJN_apron_staff_moduleA.xml 39.1496282 21.6785499 7.44 20
+OBJECT_SHARED Models/Airport/OEJN_apron_staff_moduleA.xml 39.1502397 21.6769867 7.57 20
+OBJECT_SHARED Models/Airport/OEJN_apron_staff_moduleB.xml 39.1420579 21.6758978 6.78 20
+OBJECT_SHARED Models/Airport/OEJN_apron_staff_moduleB.xml 39.1452553 21.6769898 7.05 20
+OBJECT_SHARED Models/Airport/OEJN_apron_staff_moduleB.xml 39.1496282 21.6785499 7.44 20
 OBJECT_STATIC alhajj_module.xml 39.1369694 21.7023516 6.17 110.1
 OBJECT_STATIC alhajj_module.xml 39.1374726 21.7010666 6.24 110.1
 OBJECT_STATIC alhajj_module.xml 39.1379757 21.6997817 6.28 110.1
@@ -37,3 +49,6 @@ OBJECT_STATIC alhajj_module.xml 39.1437885 21.6988564 6.38 110.1
 OBJECT_STATIC alhajj_terminal_columns.xml 39.1394851 21.695927 6.48 110.1
 OBJECT_STATIC alhajj_terminal_columns.xml 39.14429193 21.6975716 6.47 110.1
 OBJECT_STATIC oejn_northterminal.xml 39.143989 21.687609 6.82 289.9
+OBJECT_STATIC oejn_royalterminal.xml 39.13413476 21.6727021 5.96 18.9
+OBJECT_STATIC OEJN_tower_old.xml 39.1473062 21.6776214 7.24 290
+OBJECT_STATIC OEJN_jetA1_depot.xml 39.143642 21.670521 6.97 200
